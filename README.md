@@ -1,6 +1,7 @@
 #Car management system
 
 ##TO RUN 
+clone code into $GOPATH/src/
 ```
 make dep 
 go run main.fo
